@@ -1,0 +1,57 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="center" color="#555" />
+      <mj-section background-color="" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body background-color="white">
+    
+    <mj-section >
+    <mj-column width="600px">
+        <mj-text align="left" font-size="12px" font-weight="600px" >
+          Newsletter
+          <mj-text font-weight="300px">
+            November 2017
+        </mj-text>
+      <mj-image src="https://static.cdn.responsys.net/i2/responsysimages/survey/contentlibrary/2017_q4/newsletter_wufoo/images/wufoo-logo.png" width="219px" height="70">
+      </mj-image>
+      </mj-column>
+		</mj-section>
+    
+    <mj-section>
+      <mj-column background-color="#37a88c">
+        <mj-text color="white" font-size="35px">
+          5 marketing hacks to win the holidays!
+        </mj-text>
+        
+        <mj-button background-color="#2cd270" color="white" href="https://www.wufoo.com/2017/11/01/5-tips-to-keep-your-customers-engaged-this-holiday-season/?utm_source=email&utm_medium=wf_crm_mktg_pa&utm_content=survey.120649&utm_term=story1_cta&utm_campaign=RE_NL&date=2017-11-324&CID=2650980&cvosrc=email.Reponsys.WF_CRM_MKTG_PA&cvo_cid=survey.120649&story1_cta">
+          LEARN HOW
+        </mj-button>
+        
+        <mj-image src="https://static.cdn.responsys.net/i2/responsysimages/survey/contentlibrary/2017_q4/newsletter_wufoo/images/CR3167_nov_story1.png" width="185px" href="https://www.wufoo.com/2017/11/01/5-tips-to-keep-your-customers-engaged-this-holiday-season/?utm_source=email&utm_medium=wf_crm_mktg_pa&utm_content=survey.120649&utm_term=story1_img&utm_campaign=RE_NL&date=2017-11-324&CID=2650980&cvosrc=email.Reponsys.WF_CRM_MKTG_PA&cvo_cid=survey.120649&story1_img">
+        </mj-image>
+        
+        <mj-text color="white" font-size="16px">
+          The holidays are crazy hectic. Keep your customers engaged with your forms on social media, email, and more.
+          <mj-text href="">
+            LEARN HOW
+          </mj-text>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+      
+    <mj-section>
+      <mj-column background-color="">
+        <mj-text>
+          
+        </mj-text>
+      </mj-column>
+    </mj-section>
+      
+  </mj-body>
+</mjml>
